@@ -1,0 +1,5 @@
+CRIAR SISTEMA "Farmácia Municipal"
+TELA: Nome, CPF, Remédio, Quantidade
+ARMAZENAR EM "farmacia_dados.txt"
+IMPRIMIR "Cadastro finalizado com sucesso"
+ENCERRAR

@@ -1,0 +1,6 @@
+CRIAR SISTEMA "Cadastro de Teste"
+IMPRIMIR "Bem-vindo ao sistema de teste do Simplico!"
+TELA: Nome, Cargo, Linguagem
+ARMAZENAR EM "usuarios.txt"
+IMPRIMIR "Dados salvos com sucesso no arquivo!"
+ENCERRAR
